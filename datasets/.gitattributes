@@ -1,0 +1,7 @@
+Kron22*.bin filter=lfs diff=lfs merge=lfs -text
+Kron22/*.bin filter=lfs diff=lfs merge=lfs -text
+Kron25/*.bin filter=lfs diff=lfs merge=lfs -text
+Kron26/*.bin filter=lfs diff=lfs merge=lfs -text
+wikipedia/*.bin filter=lfs diff=lfs merge=lfs -text
+liveJournal/*.bin filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
